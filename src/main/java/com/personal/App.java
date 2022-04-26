@@ -6,5 +6,10 @@ public class App {
 
     System.out.println("bruh 2");
 
+    System.out.println("bruh 3");
+
+    System.out.println("bruh 4");
+
+    System.out.println("bruh 5");
   }
 }
